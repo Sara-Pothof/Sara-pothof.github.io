@@ -1,0 +1,227 @@
+/* index */
+#uuid-0132a896-c522-4078-a579-c0796f00c645:hover{
+    filter:saturate(250);
+}
+#uuid-c13f9d7e-d7c1-44ae-b60b-5b151afa0906:hover{
+    filter:hue-rotate(90deg);
+}
+
+/* flower */
+.bloem{
+    top: 1100px;
+    left: 700px;
+    position: absolute;
+}
+.bloem:hover {text-decoration: none} 
+.hide {display:none}
+.bloem:hover img:first-child{display:none}
+.bloem:hover img:last-child{display:inline-block}
+
+
+/* oldwoman */
+#uuid-d24127e8-a6de-4e0e-bdd4-964946e49fbb:hover{
+ filter:saturate(250);
+
+}
+#uuid-d05e3341-421c-48b3-b2d9-877bfdfd7d36:hover{
+    filter:hue-rotate(90deg);
+}
+#uuid-cff00021-377b-4e72-a9fc-a538043463b3:hover{
+   filter:hue-rotate(30deg);
+}
+
+/* redhat */
+.derodehoed{
+    top: 7500px;
+    left: 600px;
+    position: absolute;
+}
+.derodehoed:hover {
+    filter:saturate(250%);
+} 
+
+#uuid-ae03a4e9-78be-4922-a1c9-c0e00b6b4fb8:hover{
+    filter:grayscale(100%);
+}
+
+#uuid-6e3b507e-ada7-4616-a49d-ad2ff786f93c:hover{
+    rotate: z -10deg;
+    filter:hue-rotate(90deg);
+}
+
+/* pavement */
+#uuid-80cb8dbd-9848-421c-a679-88690c3b36df:hover{
+    filter: grayscale(100%);
+}
+
+#uuid-896280f0-1303-4ee6-9099-2d845961cac3:hover{
+    filter: grayscale(100%);
+}
+
+#uuid-1148fd11-12c1-4e44-a25e-cee5012e9219:hover{
+    filter:saturate(250);
+}
+
+/*spit*/
+#uuid-e75a316f-1321-4164-bdc3-74f53675fc07:hover{
+    rotate: z 45deg;
+    filter:hue-rotate(90deg);
+}
+
+#uuid-07970c22-b3d3-4cbb-93fa-480503d98f80:hover{
+    filter:blur(2px);
+}
+
+/* shirt */
+#uuid-0b4d30f0-7ce7-41bf-b48b-125ac6b632de:hover{
+    filter:saturate(250);
+}
+#uuid-01478cb9-8107-4dcb-92fd-89865d4926c7:hover{
+    filter:blur(20px);
+}
+#uuid-adb1c806-2c8e-4f3b-aa41-eacdb8d50990:hover{
+    rotate: -45deg;
+    filter:hue-rotate(90deg);
+}
+
+/* sausage */
+#uuid-f58b4ef7-574c-40fe-9f83-5729d56b8cb3:hover{
+    filter:saturate(250);
+}
+#uuid-43f85172-da12-44a6-97e1-122b203a4620{
+    filter:blur(20px);
+}
+#uuid-43f85172-da12-44a6-97e1-122b203a4620:hover{
+    filter:none;
+}
+
+/* hoard */
+#uuid-8b23afbc-c9d0-4b32-9f57-aadfd7972112:hover{
+    filter:saturate(250);
+}
+
+/* rent */
+#uuid-fda3b372-8387-4c97-b563-fcb0ce92b6fd:hover{
+    opacity: 0.33;
+}
+#uuid-72b29972-5a9e-4f43-937b-1d32cfffdc27:hover{
+    filter:hue-rotate(90deg);
+}
+
+/* practise */
+#uuid-99b93409-96cd-4f2d-be50-2a87187eeeed:hover{
+    filter:blur(20px);
+}
+#uuid-96a49fc1-679c-4cab-8d30-719bf19cd11a:hover{
+    filter:saturate(250);
+}
+
+/* pension */
+#slay:hover{
+    filter: saturate(250)
+}
+
+/* gobble */
+#uuid-04e03773-19cd-424e-bd62-bfcd1cd32891:hover{
+    filter:hue-rotate(90deg);
+}
+#press:hover{
+    filter: saturate(250);
+}
+#uuid-9dc64a01-3262-46a8-ab96-397d81b09067:hover{
+    rotate: x 10deg;
+}
+#uuid-31c55b35-2dd9-4065-baee-59ea50534661:hover{
+    rotate: x 10deg;
+}
+#uuid-ab2094a3-11e3-4789-a0f8-2c30d2712f3c:hover{
+    rotate: x 10deg;
+}
+
+/* rail */
+#public:hover{
+    filter: saturate(250);
+}
+#uuid-d68bb08f-56c0-4644-b51b-6cd8e0c2e3cc{
+    filter:blur(20px);
+}
+#uuid-d68bb08f-56c0-4644-b51b-6cd8e0c2e3cc:hover{
+    filter:none;
+}
+
+/* sobriety */
+#youth:hover{
+    filter: saturate(250);
+}
+
+/* rain */
+#uuid-f43e30ca-fbf1-49aa-92a5-a5d7d490dfda:hover{
+    filter:hue-rotate(90deg);
+}
+#rain:hover{
+    filter: saturate(250);
+}
+
+/* pickle */
+#uuid-fc6fdc66-7843-41b6-ab29-bdb31e093244:hover{
+    filter: saturate(250);
+}
+
+/* dinner */
+#uuid-ad7402e6-cde6-454b-af51-f5f1106754ed:hover{
+    filter: saturate(250);
+}
+#uuid-19f7b71e-4946-4941-b2e1-ecf1c9c14967:hover{filter:grayscale(100%);}
+#uuid-877cffd0-b3c8-4343-84f6-07dc271e7e52:hover{filter:grayscale(100%);}
+#uuid-a720fe2f-7de6-4730-a5bd-218f4cd9f7dc:hover{filter:grayscale(100%);}
+#uuid-1d6fb615-a1d1-4135-8d84-1ea3c205cf1a:hover{filter:grayscale(100%);}
+#uuid-e52f2bfa-d5af-47c5-93ad-fb9cee81d1a7:hover{filter:grayscale(100%);}
+#uuid-522d661b-8f06-4979-bd71-33506ac48029:hover{filter:grayscale(100%);}
+#uuid-d0c74b07-dacd-47d9-87dd-96e74d5eb2ab:hover{filter:grayscale(100%);}
+#uuid-4fbb27c8-5e11-4b8a-a86d-6950aaf0a569:hover{filter:hue-rotate(90deg);}
+#uuid-c569dc98-dea1-4a56-8d07-403471f9fb65:hover{filter:grayscale(100%);}
+#uuid-c6729cfd-48e7-4daa-921e-ab3d2dab58b1:hover{filter:grayscale(100%);}
+#uuid-75881dde-573e-4a6b-b45a-2623f88cfbee:hover{filter:grayscale(100%);}
+#uuid-4b971d57-1967-4c39-b807-12b9c69c2d26:hover{filter:grayscale(100%);}
+
+/* shocked */
+#uuid-79f00fc0-2adb-40f1-b9ed-7364e602b030:hover{
+    filter: saturate(250);
+}
+#uuid-ada58d27-0587-4eaf-a1fa-38d886deeced:hover{
+    filter:hue-rotate(90deg);
+}
+#uuid-34a80b9b-062c-4417-b05d-a75f0a841f82:hover{
+    filter:hue-rotate(90deg);
+}
+
+/* suddenly */
+#purp:hover{
+    filter: saturate(250);
+}
+#uuid-b12bee70-fc40-413c-9a86-21e0705dd380:hover{
+    rotate: 30deg;
+    filter:hue-rotate(90deg);
+}
+
+/* clothes */
+#uuid-6f3d3ae8-19bf-456f-9707-4192e15bd144:hover{
+    filter: saturate(250);
+}
+#uuid-5f4eaaea-7aad-4338-8ba7-f4e1942a63f9:hover{
+    filter:hue-rotate(30deg);
+}
+#uuid-604f8f43-8ebd-4eb5-8bc4-e31d8962962c:hover{
+    filter:hue-rotate(30deg);
+}
+#uuid-2a5c3d3a-e464-47cd-bd19-0af44f7316c8:hover{
+    filter:none;
+}
+#uuid-2a5c3d3a-e464-47cd-bd19-0af44f7316c8{
+    filter:hue-rotate(30deg);
+}
+
+/* example */
+#uuid-517dfffb-6866-4f8a-a277-ef25b8aa8188:hover{
+    filter: saturate(250);
+}
